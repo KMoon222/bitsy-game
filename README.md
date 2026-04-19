@@ -1,1 +1,1 @@
-A game made entirely in bitsy, first version
+A game made entirely in Bitsy, first version
